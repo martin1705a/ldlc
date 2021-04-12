@@ -1,0 +1,9 @@
+---
+refresh_interval: 2 # seconds
+max_price: 650 # dollars/euros/etc
+urls:
+  - https://www.ldlc.com/es-es/ficha/PB00384189.html
+  - https://www.ldlc.com/es-es/ficha/PB00393364.html
+  - https://www.ldlc.com/es-es/ficha/PB00385043.html
+  - https://www.ldlc.com/es-es/ficha/PB00401254.html
+...
